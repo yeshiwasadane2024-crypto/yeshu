@@ -51,6 +51,6 @@ The system provides:
 <img width="1094" height="450" alt="Scab" src="https://github.com/user-attachments/assets/052c7415-82f7-4b7d-9c3d-48b2fb4c4e36" />
 
 ## 👤 Author
-gechooo  
-Email: getnetbayuh2017@email.com  
-GitHub: https://github.com/gechooo
+yeshu 
+Email: yeshiwasadane2024@email.com  
+GitHub: https://github.com/yeshu
